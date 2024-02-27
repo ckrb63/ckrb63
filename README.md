@@ -4,7 +4,7 @@ I'm a passionate Frontend Engineer committed to solving specific challenges for 
 - 🗂️ Projects
   - [Dutying](https://github.com/gom-3) - Nurse Shift Management Service (SW Maestro 14th Certification)
 - 🌱 I’m currently learning
-  - clean code
+  - functional programming
 - 💬 Ask me about anything
 - 📫 How to reach me:
   - [Linkedin](https://www.linkedin.com/in/chankyu-kim-8689302a3/)
