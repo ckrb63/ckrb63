@@ -7,8 +7,8 @@ I'm a passionate Frontend Engineer committed to solving specific challenges for 
   - functional programming
 - 💬 Ask me about anything
 - 📫 How to reach me:
-  - [Linkedin](https://www.linkedin.com/in/chankyu-kim-8689302a3/)
-  - [Blog](https://velog.io/@cksrb63/posts)
+  - [Linkedin](https://www.linkedin.com/in/chankyu63/)
+  - [Blog](https://kimchankyu.dev)
 
 
 
